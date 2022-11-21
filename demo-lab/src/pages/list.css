@@ -1,0 +1,9 @@
+#list-item{
+    background-color: pink;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid orange;
+    width: 60%;
+    margin: auto;
+}
